@@ -1,0 +1,32 @@
+html,
+body,
+#viewDiv {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.esri-popup {
+    width: 288px;
+}
+
+.esri-popup__action-text {
+    display: contents;
+    color: white !important;
+}
+
+.esri-popup__button:hover {
+    background: #292826 !important;
+    color: white !important;
+}
+
+.esri-legend {
+    max-height: 100% !important;
+}
+
+#info {
+    width: 500px;
+    background: #242424;
+    padding: 5px 20px 30px;
+}
